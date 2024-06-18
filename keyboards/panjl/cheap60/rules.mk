@@ -1,0 +1,9 @@
+MOUSEKEY_ENABLE = yes
+AUDIO_ENABLE = no
+EXTRAKEY_ENABLE = yes
+CONSOLE_ENABLE = no
+COMMAND_ENABLE = no #for debug and configuration
+
+DYNAMIC_MACRO_ENABLE = yes
+
+LTO_ENABLE = yes
